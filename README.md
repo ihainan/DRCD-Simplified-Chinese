@@ -19,13 +19,13 @@
 
 具体数据规模如下（Token 数基于 Qwen2.5-7B-Instruct 的 tokenizer 统计得到）：
 
-- 训练集
+- 测试集
 
 | #Queries | # Docs | Avg Tokens/Query | Avg Tokens/Doc | Max Tokens in Docs |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | 3524 | 383 | 29 | 8831 | 61881 |
 
-- 测试集
+- 训练集
 
 | #Queries | # Docs | Avg Tokens/Query | Avg Tokens/Doc | Max Tokens in Docs |
 | ----------- | ----------- | ----------- | ----------- | ----------- | 
